@@ -28,7 +28,7 @@ accent_color = "blue"
 background_color = "blue"
 
 # The logo text - defaults to "Terminimal theme"
-logo_text = "Terminimal theme"
+logo_text = "Citizen Cosmos"
 
 # The logo link - defaults to base_url.
 #logo_home_link = "/take/me/away!"
@@ -52,7 +52,9 @@ menu_items = [
     # see documentation below for more details
     {name = "tags", url = "$BASE_URL/tags"},
     {name = "archive", url = "$BASE_URL/archive"},
-    {name = "about me", url = "$BASE_URL/about"},
+    {name = "about us", url = "$BASE_URL/about"},
+    {name = "our community", url = "$BASE_URL/community"},
+    
 
     # set newtab to true to make the link open in new tab
     {name = "github", url = "https://github.com/pawroman/zola-theme-terminimal", newtab = true},
@@ -65,7 +67,7 @@ enable_post_view_navigation = true
 # The text shown at the bottom of a post,
 # before earlier/later post links.
 # Defaults to "Thanks for reading! Read other posts?"
-post_view_navigation_prompt = "Thanks for reading! Read other posts?"
+post_view_navigation_prompt = "Thanks for reading! Join our community?"
 
 # Use full Hack character set, not just a subset.
 # Switch this to true if you need full unicode support.
