@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://sirotenkosergey.github.io/-citizen-blog/sitemap.xml
