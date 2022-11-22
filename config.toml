@@ -1,6 +1,6 @@
 # Be sure to change these!
 base_url = "https://sirotenkosergey.github.io/-citizen-blog"
-title = "Zola Terminimal theme"
+title = "Citizen Cosmos"
 
 # Sass compilation is required
 compile_sass = true
